@@ -1,0 +1,371 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+  <!-- app. -->
+  <string name="app_name">မိုးလေဝသ</string>
+  <string name="geometric_weather">Geometric Weather</string>
+  <string name="package_name">wangdaye.com.geometricweather</string>
+  <!-- Do not translate. -->
+  <string name="version_code">v2.606</string>
+  <!-- Do not translate. -->
+  <!-- keyword. -->
+  <string name="current_location">အခုတည်ရှိသောနေရာ</string>
+  <string name="resident_location">နေထိုင်သူတည်နေရာ</string>
+  <string name="default_location">မူယင်းနေရာ</string>
+  <string name="live">ယခု</string>
+  <string name="today">ယနေ့</string>
+  <string name="refresh_at">နောက်ဆုံး ‌ဒေတာရယူချိန်</string>
+  <string name="local_time">‌‌ဒေသအချိန်</string>
+  <string name="precipitation">မိုးရွာသွန်းမှု</string>
+  <string name="precipitation_probability">မိုးရွာသွန်းမှု ဖြစ်နိုင်ခြေဖြစ်နိုင်ခြေ</string>
+  <string name="precipitation_duration">မိုးရွာသွန်းမှု ကြာမြင့်ချိန်</string>
+  <string name="maxi_temp">နေ့</string>
+  <string name="mini_temp">ည</string>
+  <string name="time">အချိန်</string>
+  <string name="day">နေ့ခင်းဘက်</string>
+  <string name="night">ညခင်းဘက်</string>
+  <string name="temperature">အပူချိန်</string>
+  <string name="wind">လေဦးတည်ရာ</string>
+  <string name="wind_direction">လေဦးတည်ရာ</string>
+  <string name="wind_speed">လေတိုက်နှုန်း</string>
+  <string name="wind_level">လေတိုက်နှုန်း</string>
+  <string name="sensible_temp">သိသာ‌‌သောအပူချိန်</string>
+  <string name="humidity">စိုထိုင်းမှု</string>
+  <string name="uv_index">ခရမ်းလွန် ရောင်ခြည်ညွှန်ပြကိန်း</string>
+  <string name="hours_of_sun">နေထွက်သောအချိန်ပေါင်း</string>
+  <string name="forecast">ခန့်မှန်းချက်</string>
+  <string name="briefings">အကျဉ်းချုပ်</string>
+  <string name="daytime">နေ့ခင်းဘက်</string>
+  <string name="nighttime">ညခင်းဘက်</string>
+  <string name="publish_at">ထုတ်ပြန်ချိန်</string>
+  <string name="feels_like">ခံစားရ‌သောအပူချိန်</string>
+  <string name="follow_system">စနစ်အတိုင်းလိုက်နာပါ</string>
+  <string name="background_information">နောက်ခံအချက်အလျက်</string>
+  <string name="pressure">လေထုဖိအား</string>
+  <string name="visibility">မြင်နိုင်သောအကွာအဝေး</string>
+  <string name="dew_point">နှင်း</string>
+  <string name="cloud_cover">တိမ်ဖုံးမှု</string>
+  <string name="ceiling">အနှိမ့်ဆုံးတွင်တွေ့နိုင်သောတိမ် မျက်နှာကျက်</string>
+  <string name="get_more">ပိုမိုရယူပါ</string>
+  <string name="get_more_store">app store မှ ပိုမိုရယူပါ</string>
+  <string name="get_more_github">GitHub မှ ပိုမိုရယူပါ</string>
+  <string name="refresh">ဒေတာပြန်လည်ရယူပါ</string>
+  <string name="restart">ပြန်လည်အစပြုပါ</string>
+  <string name="edit">ပြင်ရန်</string>
+  <!-- The following set of strings should be as short as possible. -->
+  <string name="of_clock">:၀၀</string>
+  <string name="yesterday">မနေ့က</string>
+  <string name="tomorrow">မနက်ဖြန်</string>
+  <string name="week">အပတ်</string>
+  <string name="week_1">တနင်္လာ</string>
+  <string name="week_2">အင်္ဂါ</string>
+  <string name="week_3">ဗုဒ္ဓဟူး</string>
+  <string name="week_4">ကြာသပတေး</string>
+  <string name="week_5">သောကြာ</string>
+  <string name="week_6">စနေ</string>
+  <string name="week_7">တနင်္ဂနွေ</string>
+  <string name="real_feel_temperature">အစစ်အမှန်ခံစားမှု</string>
+  <string name="real_feel_shader_temperature">Real feel shader</string>
+  <string name="apparent_temperature">ရှင်းလင်းသော</string>
+  <string name="wind_chill_temperature">လေအေး</string>
+  <string name="wet_bulb_temperature">စိုစွတ်သောအပူချိန်</string>
+  <string name="degree_day_temperature">အပူချိန်</string>
+  <string name="total">စုစုပေါင်း</string>
+  <string name="thunderstorm">မိုးကြိုးမုန်းတိုင်း</string>
+  <string name="rain">မိုး</string>
+  <string name="snow">နှင်းပွင့်</string>
+  <string name="ice">ရေခဲ</string>
+  <string name="wind_0">တည်ငြိမ်သည်</string>
+  <string name="wind_1">လေပျော့</string>
+  <string name="wind_2">ပေါ့ ပါး‌သောလေ</string>
+  <string name="wind_3">လေပြေလေညှင်း</string>
+  <string name="wind_4">လေပြေ အလယ်အလတ် တိုက်သည်</string>
+  <string name="wind_5">လတ်ဆတ်သောလေပြေ</string>
+  <string name="wind_6">ပြင်းထန်‌သောလေပြေ</string>
+  <string name="wind_7">Near breeze</string>
+  <string name="wind_8">လေပြင်းတိုက်သည်</string>
+  <string name="wind_9">သန်မာသော လေပြင်းတိုက်သည်</string>
+  <string name="wind_10">မုန်တိုင်း</string>
+  <string name="wind_11">ပြင်းထန်သောမုန်တိုင်း</string>
+  <string name="wind_12">ဟာရီကိန်း / တိုင်ဖွန်းမုန်တိုင်း</string>
+  <string name="precipitation_light">မိုးဖွဲး</string>
+  <string name="precipitation_middle">မိုး</string>
+  <string name="precipitation_heavy">မိုးသည်းထန်စွာရွာသွန်းသည်</string>
+  <string name="precipitation_rainstorm">မိုးသက်မုန်တိုင်း</string>
+  <string name="aqi_1">လေကောင်းလေသန့်</string>
+  <string name="aqi_2">လေအေး</string>
+  <string name="aqi_3">အနည်းငယ်လေထုညစ်ညမ်းမှု</string>
+  <string name="aqi_4">အလယ်အလတ်လေထုညစ်ညမ်းမှု</string>
+  <string name="aqi_5">အကြီးအကျယ်လေထုညစ်ညမ်းမှု</string>
+  <string name="aqi_6">ပြင်းထန်သောလေထုညစ်ညမ်းမှု</string>
+  <string name="phase_new">လဆန်း</string>
+  <string name="phase_waxing_crescent">Waxing crescent</string>
+  <string name="phase_first">ပထမ လေးပုံတစ်ပုံပုံတစ်ပုံ</string>
+  <string name="phase_waxing_gibbous">Waxing gibbous</string>
+  <string name="phase_full">လပြည့်</string>
+  <string name="phase_waning_gibbous">Waning gibbous</string>
+  <string name="phase_third">တတိယ လေးပုံတစ်ပုံပုံတစ်ပုံ</string>
+  <string name="phase_waning_crescent">Waning crescent</string>
+  <string name="grass">မြက်ပင်</string>
+  <string name="mold">မှို</string>
+  <string name="ragweed">Ragweed</string>
+  <string name="tree">သစ်ပင်</string>
+  <string name="daily_overview">ရက်အလိုက် ခန့်မှန်းချက်</string>
+  <string name="hourly_overview">နာရီအလိုက် ခန့်မှန်းချက်</string>
+  <string name="minutely_overview">မိနစ်တိုင်းခန့်မှန်းချက်</string>
+  <string name="precipitation_overview">မိုးရွာသွန်းမှုခန့်မှန်းချက်</string>
+  <string name="air_quality">လေအရည်အသွေး</string>
+  <string name="allergen">ဓာတ်မတည်ခြင်း</string>
+  <string name="life_details">အသေးစိတ်</string>
+  <string name="sunrise_sunset">နေ နဲ့ လ</string>
+  <string name="next">ရှေ့သို့ </string>
+  <string name="done">ပြီးပြီ</string>
+  <string name="cancel" tools:ignore="ButtonCase">ပယ်ဖြတ်ရန်</string>
+  <string name="on">ဖွင့်ထားပြီ</string>
+  <string name="off">ပိတ်ထားပြီ</string>
+  <string name="go_to_set">ချိန်ညှိပါ</string>
+  <string name="help">အကူအညီ</string>
+  <string name="learn_more">ပိုမိုသိရှိရန်</string>
+  <string name="about_app">APP အ‌ကြောင်း</string>
+  <string name="introduce">မိတ်ဆက်</string>
+  <string name="email">အီးမေးလ်</string>
+  <string name="donate">လှူဒါန်းပါ</string>
+  <string name="gitHub">GitHub</string>
+  <string name="translator">ဘာသာပြန်များ</string>
+  <string name="thanks">ကျေးဇူးတင်စာ</string>
+  <string name="alipay">Alipay</string>
+  <string name="wechat">Wechat</string>
+  <!-- Date format strings. -->
+  <!-- Month : MMM(long) / M(short). -->
+  <!-- Day   : dd(long) / d(short). -->
+  <!-- Week  : EEEE(long) / EEE(short). -->
+  <string name="date_format_short">M-d</string>
+  <string name="date_format_long">MMM d</string>
+  <string name="date_format_widget_short">EEEE, MMM d</string>
+  <string name="date_format_widget_long">EEEE, MMM d</string>
+  <string name="date_format_widget_oreo_style">EEEE, MMM d│</string>
+  <!-- Do not translate the following set of strings. -->
+  <string name="tag_temperature">@string/temperature</string>
+  <string name="tag_wind">@string/wind</string>
+  <string name="tag_precipitation">@string/precipitation</string>
+  <string name="tag_aqi">@string/air_quality</string>
+  <string name="tag_uv">@string/uv_index</string>
+  <!-- about. -->
+  <!-- Optional, the following set of strings are not necessarily translated. -->
+  <string name="retrofit">Retrofit 2.0</string>
+  <string name="about_retrofit">Type-safe HTTP client for Android and Java by Square, Inc.</string>
+  <string name="glide">Glide</string>
+  <string name="about_glide">An image loading and caching library for Android focused on smooth scrolling.</string>
+  <string name="gson">Gson</string>
+  <string name="about_gson">A Java serialization/deserialization library that can convert Java Objects into JSON and back.</string>
+  <string name="greenDAO">GreenDAO</string>
+  <string name="about_greenDAO">greenDAO is a light and fast ORM solution for Android that maps objects to SQLite databases.</string>
+  <string name="page_indicator">InkPageIndicator</string>
+  <string name="about_page_indicator">InkPageIndicator created by @nickbutcher for Plaid https://github.com/nickbutcher/plaid and backported by David Pacioianu for API 14+ (4.0+).</string>
+  <string name="circular_progress_view">CircularProgressView</string>
+  <string name="about_circular_progress_view">Material style circular progress bar for Android.</string>
+  <!-- feedback. -->
+  <string name="feedback_request_permission">ခွင့်ပြုတ်ချက်များ</string>
+  <string name="feedback_request_location">တည်နေရာ</string>
+  <string name="feedback_request_location_in_background">နောက်ခံတွင် တည်နေရာရှာနေသည်</string>
+  <string name="feedback_request_location_permission_success"> တည်နေရာခွင့်ပြုချက်တောင်းဆိုမှုများ ‌အောင်မြင်ပြီ</string>
+  <string name="feedback_request_location_permission_failed">Location permissions request failed</string>
+  <string name="feedback_location_failed">တည်နေရာရှာမတွေ့ပါ</string>
+  <string name="feedback_get_weather_failed">တောင်းထားသော မိုးလေဝသ data ရယူခြင်းမအောင်မြင်ပါ</string>
+  <string name="feedback_location_help_title">တည်နေရာအမှန်မရသလား?</string>
+  <string name="feedback_check_location_permission">တည်နေရာ ခွင့်ပြုတ်ချက် စစ်ဆေးပါ</string>
+  <string name="feedback_enable_location_information">တည်နေရာအချက်အလက်ကိုဖွင့်ထားပါ</string>
+  <string name="feedback_select_location_provider">တည်နေရာထောက်ပန့်ပေးသူကိုရွေးပါ</string>
+  <string name="feedback_add_location_manually">ကိုယ်တိုင် နေရာကိုရွေးပြီး \'$\' ကိုဖျတ်ပါ</string>
+  <string name="feedback_view_style">ပုံစံ</string>
+  <string name="feedback_show_widget_card">နောက်ခံ အရောင်</string>
+  <string name="feedback_show_widget_card_alpha">ပေါ်လွင်မှု</string>
+  <string name="feedback_hide_subtitle">စာတမ်းကို ဝှက်ထားပါ</string>
+  <string name="feedback_subtitle_data">စာတမ်း ဒေတာ</string>
+  <string name="feedback_black_text">စာသား အရောင်</string>
+  <string name="feedback_text_size">စာသား အရွယ်အစား</string>
+  <string name="feedback_clock_font">နာရီစာလုံး</string>
+  <string name="feedback_custom_subtitle_explanation">ဘာမဆို‌ရေးလို့ရတယ် သိုသော်စကားလုံးအရေအတွက်ကန့်သတ်ချက်ကိုသတိပြုထားပါ။ အကယ်၍ မိုလေဝသ ဒေတာကို ကိုးကားလိုပါက ကျေးဇူးပြုပြီး $ ကိုသုံးပြီး သက်ဆိုင်ရာ သော့ချက်စာလုံး ကို ကိုးကားပါ။ \n\nဥပမာ, \"လက်ရှိရာသီဥတု = $cw$\" ဟာ \"လက်ရှိရာသီဥတု = သာယာသော‌‌နေ့\" ဟုပေါ် မည်</string>
+  <!-- keep those content with the format "$xxx$". -->
+  <!-- keep "\n" -->
+  <string name="feedback_custom_subtitle_keywords">
+        \n
+        $cw$ : လက်ရှိရာသီဥတုr\n
+        $ct$ : လက်ရှိအပူချိန် (℃/℉)\n
+        $ctd$ : လက်ရှိအပူချိန် (°)\n
+        $at$ : သိသာအပူချိန် (℃/℉)\n
+        $atd$ : သိသာအပူချိန် (°)\n
+        $cpb$ : လက်ရှိမိုးရွာသွန်းမှုဖြစ်နိုင်ခြေ (%)\n
+        $cp$ : လက်ရှိမိုးရွာသွန်းမှု (မီလီမီတာ/လီတာ/မီတာ²)\n
+        $cwd$ : လက်ရှိလေတိုက်နှုန်း \n
+        $cuv$ : လက်ရှိခရမ်းလွန်ရောင်ခြည်\n
+        $ch$ : လက်ရှိစိုထိုင်းမှု\n
+        $cps$ : လက်ရှိဖိအား\n
+        $cv$ : လက်ရှိမြင်နိုင်မှု\n
+        $cdp$ : လက်ရှိ ရှိသောနှင်း \n
+        \n
+        $l$ :  တည်နေရာ\n
+        $lat$ : လတ္တီတွဒ်\n
+        $lon$ : လောင်ဂျီတွဒ် \n
+        $ut$ : အချိန်မွမ်းမံပါ \n
+        $d$ : နေ့စွဲ \n
+        $lc$ :လပြက္ခဒိန် \n
+        $w$ : အပတ်\n
+        $ws$ : ပတ် (အတိုကောက်)\n
+        $dd$ : နေ့စဉ်ဖော်ပြချက် \n
+        $hd$ : နာရီအလိုက်ဖော်ပြချက် \n
+        $enter$ : ရိုက်ထည့်ပါ\n
+        \n
+        $0dw$, $1dw$, …, $4dw$ : \n ယနေ့အတွက်နေ့ခင်း ရာသီဥတု , Tmw, …, ၄ ရက်အကြာမှာ\n
+        \n
+        $0nw$, $1nw$, …, $4nw$ : \n ယနေ့အတွက်ညနေခင်း ရာသီဥတု , Tmw, …, ၄ ရက်အကြာမှာ \n
+        \n
+        $0dt$, $1dt$, …, $4dt$ : \n ယနေ့အတွက်နေ့ခင်း အပူချိန် , Tmw, …, ၄ ရက်အကြာမှာ (℃/℉)\n
+        \n
+        $0nt$, $1nt$, …, $4nt$ : \n ယနေ့အတွက်ညနေခင်း အပူချိန် , Tmw, …, ၄ ရက်အကြာမှာ (℃/℉)\n
+        \n
+        $0dtd$, $1dtd$, …, $4dtd$ : \n ယနေ့အတွက်နေ့ခင်း အပူချိန် , Tmw, …, ၄ ရက်အကြာမှာ (°)\n
+        \n
+        $0ntd$, $1ntd$, …, $4ntd$ : \n ယနေ့အတွက်ညနေခင်း အပူချိန်, Tmw, …, ၄ ရက်အကြာမှာ (°)\n
+        \n
+        $0dp$, $1dp$, …, $4dp$ : \n ယနေ့အတွက်နေ့ခင်း မိုးရွာသွန်းမှုခန့်မှန်းချက် , Tmw, …, ၄ ရက်အကြာမှာ (%)\n
+        \n
+        $0np$, $1np$, …, $4np$ : \n ယနေ့အတွက်ညနေခင်း မိုးရွာသွန်းမှုခန့်မှန်းချက် , Tmw, …, ၄ ရက်အကြာမှာ (%)\n
+        \n
+        $0dwd$, $1dwd$, …, $4dwd$ : \n ယနေ့အတွက်နေ့ခင်း လေတိုက်နှုန်းခန့်မှန်းချက်, Tmw, …, ၄ ရက်အကြာမှာ \n
+        \n
+        $0nwd$, $1nwd$, …, $4nwd$ : \n ယနေ့အတွက်ညနေခင်း လေတိုက်နှုန်းခန့်မှန်းချက် , Tmw, …, ၄ ရက်အကြာမှာ \n
+        \n
+        $0sr$, $1sr$, …, $4sr$ : \n ယနေ့နေထွက်ချိန် , Tmw, …, ၄ ရက်အကြာမှာ \n
+        \n
+        $0ss$, $1ss$, …, $4ss$ : \n ယနေ့ နေဝင်ချိန် , Tmw, …, ၄ ရက်အကြာမှာ \n
+        \n
+        $0mr$, $1mr$, …, $4mr$ : \n ယနေ့ လပေါ် ချိန်, Tmw, …, ၄ ရက်အကြာမှာ \n
+        \n
+        $0ms$, $1ms$, …, $4ms$ : \n ယနေ့ လကွယ်ချိန် , Tmw, …, ၄ ရက်အကြာမှာ\n
+        \n
+        $0mp$, $1mp$, …, $4mp$ : \nMoon Phase of Today, Tmw, …, ၄ ရက်အကြာမှာ \n
+    </string>
+  <string name="feedback_live_wallpaper_weather_kind">ရာတီဥတု</string>
+  <string name="feedback_live_wallpaper_day_night_type">အချိန်</string>
+  <string name="feedback_click_toggle">Press chart to toggle data</string>
+  <string name="feedback_no_data">‌ဒေတာမရှိပါ</string>
+  <string name="feedback_collect_failed">ဒီနေရာရှိပြီးပြီ</string>
+  <string name="feedback_collect_succeed">တည်နေရာထည့်သွင်းခြင်းအောင်မြင်ပြီ</string>
+  <string name="feedback_delete_succeed">တည်နေရာ ဖျတ်ပြီ</string>
+  <string name="feedback_location_list_cannot_be_null">တည်နေရာစရင်း အလွတ်ထားလို့မရပါ</string>
+  <string name="feedback_search_location">တည်နေရာတစ်ခုရှာပါ ...</string>
+  <string name="feedback_not_yet_location">တည်နေရာမရနိုင်သေားပါ...</string>
+  <string name="feedback_search_nothing">တည်နေရာတစ်ခုမှမတွေ့ပါ</string>
+  <string name="feedback_initializing">အစပြုနေသည်…</string>
+  <string name="feedback_refresh_notification_after_back">Changes will take effect when you return to the home page</string>
+  <string name="feedback_refresh_notification_now">မိုးလေဝသ ဒေတာအခုရယူပါ</string>
+  <string name="feedback_refresh_ui_after_refresh">ဒေတာပြန်လည်ရယူခြင်းပြီးမှ ပြောင်းလဲသောအရာများပေါ်လာမည်</string>
+  <string name="feedback_restart">ပြန်ဖွင့်ပြီးမှ ပြောင်းလဲမှုများပေါ်လာမည်</string>
+  <string name="feedback_readd_location">ကျေးဇူးပြုပြီး တည်နေရာများပြန်လည်‌ထည့်သွင်းပါ</string>
+  <string name="feedback_readd_location_after_changing_source">ကျေးဇူးပြု၍ အချက်အလက်အရင်းအမြစ်ပြောင်းလဲပြီးနောက်တည်နေရာကိုထပ်ထည့်ပါ</string>
+  <string name="feedback_running_in_background">‌ဒေတာများအမြဲရယူနိုင်ဖို့ နောက်ခံတွင်အလုပ်လုပ်နေသည်</string>
+  <string name="feedback_updating_weather_data">ရာသီဥတုဒေတာကိုအသစ်ပြောင်းခြင်း</string>
+  <string name="feedback_updated_in_background">ဒေတာများကိုနောက်ခံမှရယူခဲ့ပြီးပြီ</string>
+  <!-- there should be a "\" before single or double quotes. -->
+  <!-- Correct : ... after turning off \'Background free\', ... After turning off \"Free background\" ... -->
+  <!-- Wrong   : ... after turning off 'Background free', ... After turning off "Free background" ... -->
+  <string name="feedback_interpret_background_notification_content">In some devices, after turning off \'Background free\', there might be a notification that cannot be cleared in the notification bar.</string>
+  <string name="feedback_interpret_notification_group_title">Block notification group</string>
+  <string name="feedback_interpret_notification_group_content">After turning off \"Free background\", a notification indicating that background service is running will appear in the notification bar. You can turn off the Background Information Channel in the app\'s information page to block this notifications.</string>
+  <string name="feedback_ignore_battery_optimizations_title">Ignore battery optimization</string>
+  <string name="feedback_ignore_battery_optimizations_content">In order to ensure that the background services can continue to work, please ignore the battery optimization for GeometricWeather.</string>
+  <string name="feedback_cannot_start_live_wallpaper_activity">Unable to start live wallpaper preview context</string>
+  <string name="feedback_unusable_geocoder">This device does not contain a valid geocoder. The location provider has been changed to Baidu Location.</string>
+  <string name="feedback_about_geocoder">Geocoder is a component that converts the location result from lat-lon format to a format like \'XX city, YY province \'. In the absence of this component, you can only get weather data through AccuWeather when using the native API as location provider.</string>
+  <string name="feedback_today_precipitation_alert">ဒီနေ့မိုးရွာသွန်းမှုရှိနိုင်ပါသည်</string>
+  <string name="feedback_short_term_precipitation_alert">လာမယ့်နာရီအနည်းငယ်အတွင်း မိုးရွာသွန်းနိုင်သည် </string>
+  <string name="feedback_resident_location">နေထိုင်သူမြို့အဖြစ်သတ်မှတ်မည်</string>
+  <string name="feedback_resident_location_description">GeometricWeather will automatically show and hide resident cities based on your current location.\nFor example, you can set your hometown as a resident city. You can check the weather in your hometown while you are traveling. When you get home, the weather in your hometown will be hidden and replaced by the weather for your current location.</string>
+  <string name="feedback_click_to_get_more">Click to get more…</string>
+  <!-- action -->
+  <string name="action_alert">သတိပေးချက်</string>
+  <string name="action_manage">စီမံသည်</string>
+  <string name="action_search">ရှာပါ</string>
+  <string name="action_settings">ချိန်ညှိချက်များ</string>
+  <string name="action_preview">အစမ်းကြည့်ခြင်း</string>
+  <string name="action_about">အကြောင်း</string>
+  <string name="action_appStore">App Store</string>
+  <!-- widget -->
+  <string name="widget_day">နေ့စဥ်</string>
+  <string name="widget_week">အပတ်စဥ်</string>
+  <string name="widget_day_week">နေ့စဥ် + အပတ်စဥ်</string>
+  <string name="widget_clock_day_horizontal">နာရီ + နေ့စဉ် (အလျားလိုက်ပုံစံ)</string>
+  <string name="widget_clock_day_details">နာရီ + နေ့စဉ် (အသေးစိတ်)</string>
+  <string name="widget_clock_day_vertical">နာရီ + နေ့စဉ် (ဒေါင်လိုက်စတိုင်)</string>
+  <string name="widget_clock_day_week">နာရီ + နေ့စဥ် + အပတ်စဥ်</string>
+  <string name="widget_text">ဝစ်ဂျက် စာလုံး</string>
+  <string name="widget_trend_daily">ရက်ရက်အလိုက်</string>
+  <string name="widget_trend_hourly">နာရီအလိုက်</string>
+  <string name="widget_multi_city">မြို့အသီးသီး</string>
+  <string name="wait_refresh">စောင့်နေသည်</string>
+  <string name="ellipsis">…</string>
+  <!-- settings -->
+  <string name="settings_category_basic">အခြေခံ</string>
+  <string name="settings_title_background_free">Background Free</string>
+  <string name="settings_summary_background_free_on">Enabled\nIf widgets and notification cannot refresh automatically, please turn off this option.</string>
+  <string name="settings_summary_background_free_off">Disabled\nIf you do not want any services to continue working in background, please turn on this option.</string>
+  <string name="settings_title_live_wallpaper">လှုပ်ရှားနိုင်‌သော နောက်ခံ</string>
+  <string name="settings_summary_live_wallpaper">Set Material weather animation as live wallpaper</string>
+  <string name="settings_title_service_provider">ဝန်ဆောင်မှုပေးသူ</string>
+  <string name="settings_summary_service_provider">ရာသီဥတုအချက်အလက်နှင့်တည်နေရာအချက်အလက်ဝန်ဆောင်မှုပေးသူကိုရွေးချယ်ပါ</string>
+  <string name="settings_title_weather_source">မိုးလေဝသအရင်းအမြစ်</string>
+  <string name="settings_title_location_service">တည်နေရာဝန်ဆောင်မှု</string>
+  <string name="settings_title_dark_mode">အမှောင် စတိုင်</string>
+  <string name="settings_title_ui_style">Interface style</string>
+  <string name="settings_title_icon_provider">အိုင်ကွန် (Icon) </string>
+  <string name="settings_title_appearance">အသွင်အပြင်</string>
+  <string name="settings_summary_appearance">Interface style, ကဒ်အစဥ်လိုက် , ဘာသာစကား…</string>
+  <string name="settings_title_card_display">ပြထားသော ကဒ်များ</string>
+  <string name="settings_title_card_order">"ကပ် အစဥ်လိုက် "</string>
+  <string name="settings_title_gravity_sensor_switch">ဆွဲငင်အားအာရုံခံကိရိယာ</string>
+  <string name="settings_title_list_animation_switch">List animation</string>
+  <string name="settings_title_item_animation_switch">Item animation</string>
+  <string name="settings_language">ဘာသာစကား</string>
+  <string name="settings_title_unit">ယူနစ်များ</string>
+  <string name="settings_summary_unit">ရာသီဥတု ‌ဒေတာအတွက် ယူနစ်ရွေးပါ</string>
+  <string name="settings_title_temperature_unit">အပူချိန်တိုင်း ယူနစ်</string>
+  <string name="settings_title_distance_unit">အကွာအဝေးတိုင်း ယူနစ်</string>
+  <string name="settings_title_precipitation_unit">မိုးရွာသွန်းမှုတိုင်းတာသော ယူနစ်</string>
+  <string name="settings_title_pressure_unit">ဖိအားတိုင်း ယူနစ်</string>
+  <string name="settings_title_speed_unit">အအမြန်နှုန်းတိုင်း ယူနစ်</string>
+  <string name="settings_title_refresh_rate">အလိုအလျောက် ‌ဒေတာရယူနှုန်း</string>
+  <string name="settings_title_alert_notification_switch">သတိပေးချက်ပေးပို့ပါ</string>
+  <string name="settings_title_precipitation_notification_switch">မိုးရွာသွန်းမှုခန့်မှန်းချက်ပေးပို့ပါ</string>
+  <string name="settings_title_permanent_service">အမြဲတမ်းဝန်ဆောင်မှု</string>
+  <string name="settings_category_forecast">ခန့်မှန့် ချက်</string>
+  <string name="settings_title_forecast_today">ဒီနေ့အတွက် ခန့်မှန့် ချက်</string>
+  <string name="settings_title_forecast_today_time">ဒီနေ့အတွက် ခန့်မှန့် သောအချိန်</string>
+  <string name="settings_title_forecast_tomorrow">မနက်ဖြန်အတွက် ခန့်မှန့် ချက်</string>
+  <string name="settings_title_forecast_tomorrow_time">မနက်ဖြန်အတွက် ခန့်မှန့် သောအချိန်</string>
+  <string name="settings_category_widget">ဝစ်ဂျက်</string>
+  <string name="settings_title_week_icon_mode">Weekly icons mode</string>
+  <string name="settings_title_minimal_icon">Minimalistic icons</string>
+  <string name="settings_title_click_widget_to_refresh">Refresh widget when clicked</string>
+  <string name="settings_category_notification">အသိပေးချက်</string>
+  <string name="settings_title_notification">အသိပေးချက်ပို့ပါ</string>
+  <string name="settings_title_notification_style">အသိပေးချက်ပုံစံ</string>
+  <string name="settings_title_notification_temp_icon">အပူချိန်ကို status bar အိုင်ကွန်ဖြင့်သုံးပါ</string>
+  <string name="settings_title_notification_color">အသိပေးချက် အရောင်</string>
+  <string name="settings_title_notification_custom_color">စိတ်ကြိုက်ရွေး အသိပေးချက် အရောင်</string>
+  <string name="settings_title_notification_text_color">စာသား အရောင်</string>
+  <string name="settings_title_notification_background">နောက်ခံအရောင်</string>
+  <string name="settings_notification_background_off">Follow System</string>
+  <string name="settings_title_notification_can_be_cleared">ဖယ်ရှားနိုင်ပါတယ်</string>
+  <string name="settings_notification_can_be_cleared_on">ဆွဲခြင်းဖြင့်ရှင်းလင်းနိုင်ပါသည်</string>
+  <string name="settings_notification_can_be_cleared_off">မရှင်းနိုင်ပါ</string>
+  <string name="settings_title_notification_hide_icon">အသိပေးချက်အိုင်ကွန်ကိုဖျောက်ပါ</string>
+  <string name="settings_notification_hide_icon_on">ဝှက်ထား</string>
+  <string name="settings_notification_hide_icon_off">ပြပါ</string>
+  <string name="settings_title_notification_hide_in_lockScreen">Hide in lock screen</string>
+  <string name="settings_notification_hide_in_lockScreen_on">ဝှက်ထား (need to open in the system settings)</string>
+  <string name="settings_notification_hide_in_lockScreen_off">ပြပါ</string>
+  <string name="settings_title_notification_hide_big_view">Extended style</string>
+  <string name="settings_notification_hide_big_view_on">ဝှက်ထား</string>
+  <string name="settings_notification_hide_big_view_off">ပြပါ</string>
+  
+</resources>

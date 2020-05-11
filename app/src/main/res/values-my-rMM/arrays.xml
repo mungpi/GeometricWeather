@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Location service. -->
+    <string-array name="location_services">
+        <item>Baidu Location</item>
+        <item>Baidu IP Location (တရုပ်ပြည်အတွက်သာ)</item>
+        <item>AMap Location</item>
+        <item>Native API</item>
+    </string-array>
+
+
+    <!-- Dark mode. -->
+    <string-array name="dark_modes">
+        <item>အလိုအလျောက်</item>
+        <item>အလင်း</item>
+        <item>အမှောင်</item>
+    </string-array>
+
+    <!-- UI style. -->
+    <string-array name="ui_styles">
+        <item>စက်ဝိုင်းကောင်းကင်</item>
+        <item>Material animation</item>
+    </string-array>
+
+    <!-- automatic refresh rate. -->
+    <string-array name="automatic_refresh_rates">
+        <item>မိနစ် ၃၀</item>
+        <item>၁.၀၀ နာရီ</item>
+        <item>၁.၃၀ နာရီ</item>
+        <item>၂.၀၀ နာရီ</item>
+        <item>၂.၃၀ နာရီ</item>
+        <item>၃.၀၀ နာရီ</item>
+        <item>၃.၃၀ နာရီ</item>
+        <item>၄.၀၀ နာရီ</item>
+        <item>၄.၃၀ နာရီ</item>
+        <item>၅.၀၀ နာရီ</item>
+        <item>၅.၃၀ နာရီ</item>
+        <item>၆.၀၀ နာရီ</item>
+    </string-array>
+
+    <!-- widget week icon mode. -->
+    <string-array name="week_icon_modes">
+        <item>အလိုအလျောက်</item>
+        <item>@string/daytime</item><!-- do not translate. -->
+        <item>@string/nighttime</item><!-- do not translate. -->
+    </string-array>
+
+    <!-- notification text color. -->
+    <string-array name="notification_text_colors">
+        <item>အနက်</item>
+        <item>မီးခိုးရောင်</item>
+        <item>အဖြူ</item>
+    </string-array>
+
+
+    <!-- Widget subtitle data. -->
+    <string-array name="subtitle_data">
+        <item>နောက်ဆုံး ဒေတာ ပြန်ယူချိန်</item>
+        <item>AQI (တစ်ချို့နေရတွင်မရပါ)</item>
+        <item>လေ</item>
+        <item>တကယ့်အပူချိန်</item>
+        <item>လပြက္ခဒိန် </item>
+        <item>စိတ်တိုင်းကျ</item>
+    </string-array>
+
+
+    <!-- widget card style. -->
+    <string-array name="widget_card_styles">
+        <item>တစ်ခုမှအရွေးပါ</item>
+        <item>နေ့ နဲ့ ည </item>
+        <item>အဖြူ</item>
+        <item>အနက်</item>
+    </string-array>
+
+    <!-- widget clock font. -->
+    <string-array name="widget_text_colors">
+        <item>အဖြူ</item>
+        <item>အနက်</item>
+        <item>အလိုအလျောက်</item>
+    </string-array>
+
+    <!-- live wallpaper weather kind. -->
+    <string-array name="live_wallpaper_weather_kinds">
+        <item>အလိုအလျောက်</item>
+        <item>ရှင်းရှင်းလင်းလင်း</item>
+        <item>တိမ်တစ်ချို့</item>
+        <item>တိမ်ထူထပ်သော</item>
+        <item>မိုး</item>
+        <item>နှင်း</item>
+        <item>မိုးသီး</item>
+        <item>မြူ</item>
+        <item>မြူခိုး</item>
+        <item>မီးခိုးမြူ</item>
+        <item>မိုးကြိုး</item>
+        <item>မိုးသက်မုန်တိုင်း</item>
+        <item>လေ</item>
+    </string-array>
+
+    <!-- live wallpaper weather kind. -->
+    <string-array name="live_wallpaper_day_night_types">
+        <item>အချိန်အလိုက်ပြောင်းပါ</item>
+        <item>နေ့ပုံစံအမြဲရွေးပါ</item>
+        <item>ညပုံစံအမြဲရွေးပါ</item>
+    </string-array>
+
+    <!-- speed unit. -->
+    <string-array name="speed_units">
+        <item>ကီလိုမီတာ/နာရီ</item>
+        <item>မီတာ/စက္ကန့်</item>
+        <item>နယူတန်</item>
+        <item>မိုင်/နာရီ</item>
+        <item>ပေ/စက္ကန့်</item>
+    </string-array>
+
+
+    <!-- precipitation unit. -->
+    <string-array name="precipitation_units">
+        <item> မီလီမီတာ</item>
+        <item> လက်မ</item>
+        <item> လီတာ/မီတာ²</item>
+    </string-array>
+
+
+    <!-- temperature unit. -->
+    <string-array name="temperature_units">
+        <item>℃</item>
+        <item>℉</item>
+        <item>K</item>
+    </string-array>
+
+
+    <!-- distance unit. -->
+    <string-array name="distance_units">
+        <item>ကီလိုမီတာ</item>
+        <item>မီတာ</item>
+        <item>မို</item>
+        <item>ရေကြောင်းမိုင်</item>
+        <item>ပေ</item>
+    </string-array>
+
+    <!-- pressure unit. -->
+    <string-array name="pressure_units">
+        <item> မီလီဘား</item>
+        <item> ကီလိုပါစကယ်</item>
+        <item> ဟက်တိုပါစကယ်</item>
+        <item> လေထုဖိအား</item>
+        <item>mmHg</item>
+        <item>inHg</item>
+        <item>kgf/cm²</item>
+    </string-array>
+    <!-- pollen unit. -->
+    <string-array name="pollen_units">
+        <item>/ကုဗမီတာ(m³)</item>
+    </string-array>
+
+    <!-- duration unit. -->
+    <string-array name="duration_units">
+        <item>နာရီ</item> <!-- hour -->
+    </string-array>
+
+</resources>
