@@ -24,7 +24,7 @@
   <string name="day">နေ့ခင်းဘက်</string>
   <string name="night">ညခင်းဘက်</string>
   <string name="temperature">အပူချိန်</string>
-  <string name="wind">လေဦးတည်ရာ</string>
+  <string name="wind">လေ</string>
   <string name="wind_direction">လေဦးတည်ရာ</string>
   <string name="wind_speed">လေတိုက်နှုန်း</string>
   <string name="wind_level">လေတိုက်နှုန်း</string>
