@@ -63,7 +63,7 @@
   <string name="week_5">သောကြာ</string>
   <string name="week_6">စနေ</string>
   <string name="week_7">တနင်္ဂနွေ</string>
-  <string name="real_feel_temperature">အစစ်အမှန်ခံစားမှု</string>
+  <string name="real_feel_temperature">တကယ်ခံစားရသောအပူချိန်</string>
   <string name="real_feel_shader_temperature">Real feel shader</string>
   <string name="apparent_temperature">ရှင်းလင်းသော</string>
   <string name="wind_chill_temperature">လေအေး</string>
