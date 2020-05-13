@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="MissingTranslation">
+
+    <!-- Do not translate those arrays which named "xxx_values". -->
+    <!-- Do not translate those items with a value of "@string/xxx". -->
+
+    <!-- Chinese source. -->
+    <string-array name="weather_sources">
+        <item>weather.com.cn (တရုပ်ပြည်အတွက်သာ)</item>
+        <item>caiyun.com (တရုပ်ပြည်အတွက်သာ)</item>
+        <item>accuweather.com</item>
+    </string-array>
 
     <!-- Location service. -->
     <string-array name="location_services">

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
   <!-- app. -->
   <string name="app_name">မိုးလေဝသ</string>
@@ -98,13 +98,13 @@
   <string name="aqi_5">အကြီးအကျယ်လေထုညစ်ညမ်းမှု</string>
   <string name="aqi_6">ပြင်းထန်သောလေထုညစ်ညမ်းမှု</string>
   <string name="phase_new">လဆန်း</string>
-  <string name="phase_waxing_crescent">Waxing crescent</string>
-  <string name="phase_first">ပထမ လေးပုံတစ်ပုံပုံတစ်ပုံ</string>
-  <string name="phase_waxing_gibbous">Waxing gibbous</string>
+  <string name="phase_waxing_crescent">လဆန်း ၁ ရက်မှ ၈ ရက်ကြား</string>
+  <string name="phase_first">ပထမလခြမ်</string>
+  <string name="phase_waxing_gibbous">လဆန်း ၉ ရက်မှ ၈ လပြည့်ကြား</string>
   <string name="phase_full">လပြည့်</string>
-  <string name="phase_waning_gibbous">Waning gibbous</string>
-  <string name="phase_third">တတိယ လေးပုံတစ်ပုံပုံတစ်ပုံ</string>
-  <string name="phase_waning_crescent">Waning crescent</string>
+  <string name="phase_waning_gibbous">လပြည့်ကျော် ၁ ရက်မှ ၈ ရက်ကြား</string>
+  <string name="phase_third">လကွယ်လခြမ်း</string>
+  <string name="phase_waning_crescent">လပြည့်ကျော် ၉ ရက်မှ လကွယ်</string>
   <string name="grass">မြက်ပင်</string>
   <string name="mold">မှို</string>
   <string name="ragweed">Ragweed</string>
@@ -243,7 +243,7 @@
         \n
         $0ms$, $1ms$, …, $4ms$ : \n ယနေ့ လကွယ်ချိန် , Tmw, …, ၄ ရက်အကြာမှာ\n
         \n
-        $0mp$, $1mp$, …, $4mp$ : \nMoon Phase of Today, Tmw, …, ၄ ရက်အကြာမှာ \n
+        $0mp$, $1mp$, …, $4mp$ : \n ယနေ့လအရွယ်အစား, Tmw, …, ၄ ရက်အကြာမှာ \n
     </string>
   <string name="feedback_live_wallpaper_weather_kind">ရာတီဥတု</string>
   <string name="feedback_live_wallpaper_day_night_type">အချိန်</string>
@@ -316,10 +316,10 @@
   <string name="settings_title_weather_source">မိုးလေဝသအရင်းအမြစ်</string>
   <string name="settings_title_location_service">တည်နေရာဝန်ဆောင်မှု</string>
   <string name="settings_title_dark_mode">အမှောင် စတိုင်</string>
-  <string name="settings_title_ui_style">Interface style</string>
+  <string name="settings_title_ui_style">ပုံစံအမျိုးမျိုး</string>
   <string name="settings_title_icon_provider">အိုင်ကွန် (Icon) </string>
   <string name="settings_title_appearance">အသွင်အပြင်</string>
-  <string name="settings_summary_appearance">Interface style, ကဒ်အစဥ်လိုက် , ဘာသာစကား…</string>
+  <string name="settings_summary_appearance">ပုံစံအမျိုးမျိုး , ကဒ်အစဥ်လိုက် , ဘာသာစကား…</string>
   <string name="settings_title_card_display">ပြထားသော ကဒ်များ</string>
   <string name="settings_title_card_order">"ကပ် အစဥ်လိုက် "</string>
   <string name="settings_title_gravity_sensor_switch">ဆွဲငင်အားအာရုံခံကိရိယာ</string>
@@ -345,7 +345,7 @@
   <string name="settings_category_widget">ဝစ်ဂျက်</string>
   <string name="settings_title_week_icon_mode">Weekly icons mode</string>
   <string name="settings_title_minimal_icon">Minimalistic icons</string>
-  <string name="settings_title_click_widget_to_refresh">Refresh widget when clicked</string>
+  <string name="settings_title_click_widget_to_refresh">နှိပ်ခြင်းဖြင့် ဝစ်ဂျက်ရှိ  ဒေတာ အသစ်ပြန်ဖြည့်ပါ</string>
   <string name="settings_category_notification">အသိပေးချက်</string>
   <string name="settings_title_notification">အသိပေးချက်ပို့ပါ</string>
   <string name="settings_title_notification_style">အသိပေးချက်ပုံစံ</string>
@@ -354,18 +354,18 @@
   <string name="settings_title_notification_custom_color">စိတ်ကြိုက်ရွေး အသိပေးချက် အရောင်</string>
   <string name="settings_title_notification_text_color">စာသား အရောင်</string>
   <string name="settings_title_notification_background">နောက်ခံအရောင်</string>
-  <string name="settings_notification_background_off">Follow System</string>
+  <string name="settings_notification_background_off">စနစ်အတိုင်းလိုက်နာပါ</string>
   <string name="settings_title_notification_can_be_cleared">ဖယ်ရှားနိုင်ပါတယ်</string>
   <string name="settings_notification_can_be_cleared_on">ဆွဲခြင်းဖြင့်ရှင်းလင်းနိုင်ပါသည်</string>
   <string name="settings_notification_can_be_cleared_off">မရှင်းနိုင်ပါ</string>
   <string name="settings_title_notification_hide_icon">အသိပေးချက်အိုင်ကွန်ကိုဖျောက်ပါ</string>
   <string name="settings_notification_hide_icon_on">ဝှက်ထား</string>
   <string name="settings_notification_hide_icon_off">ပြပါ</string>
-  <string name="settings_title_notification_hide_in_lockScreen">Hide in lock screen</string>
+  <string name="settings_title_notification_hide_in_lockScreen">Lock screen တွင်ဝှက်ထားပါ</string>
   <string name="settings_notification_hide_in_lockScreen_on">ဝှက်ထား (need to open in the system settings)</string>
   <string name="settings_notification_hide_in_lockScreen_off">ပြပါ</string>
   <string name="settings_title_notification_hide_big_view">Extended style</string>
   <string name="settings_notification_hide_big_view_on">ဝှက်ထား</string>
   <string name="settings_notification_hide_big_view_off">ပြပါ</string>
-  
+
 </resources>
