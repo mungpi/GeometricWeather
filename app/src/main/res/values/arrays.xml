@@ -57,6 +57,7 @@
     <!-- Do not translate this array. -->
     <string-array name="languages">
         <item>@string/follow_system</item>
+        <item>မြန်မာ</item>
         <item>中文</item>
         <item>繁體中文</item>
         <item>English (America)</item>
@@ -82,6 +83,7 @@
     </string-array>
     <string-array name="language_values">
         <item>follow_system</item>
+        <item>burmese</item>
         <item>chinese</item>
         <item>unsimplified_chinese</item>
         <item>english_america</item>
