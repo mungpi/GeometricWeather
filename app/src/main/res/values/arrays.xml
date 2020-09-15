@@ -80,6 +80,7 @@
         <item>Polski</item>
         <item>한국어</item>
         <item>Ελληνικά</item>
+        <item>မြန်မာ</item>
     </string-array>
     <string-array name="language_values">
         <item>follow_system</item>
@@ -106,6 +107,7 @@
         <item>polish</item>
         <item>korean</item>
         <item>greek</item>
+        <item>burmese</item>
     </string-array>
 
     <!-- automatic refresh rate. -->
